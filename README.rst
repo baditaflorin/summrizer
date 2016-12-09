@@ -10,6 +10,7 @@ Go into a python shell and type:
 
 import nltk
 nltk.download()
+nltk.download('punkt')
 
 select d for download and download:
 all-corpora
