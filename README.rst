@@ -1,5 +1,19 @@
 SUMMRIZER
 =========
+Installer
+open terminal
+    git clone https://github.com/baditaflorin/summrizer
+Go to folder and run in terminal
+    python setup.py install
+
+Go into a python shell and type:
+
+import nltk
+nltk.download()
+
+select d for download and download:
+all-corpora
+
 
 A naive summary script to extract summary of text content
 
